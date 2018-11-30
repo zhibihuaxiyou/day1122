@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="CustomerTitleBar">
+        <attr name="left_image" format="reference"/>
+        <attr name="center_text" format="string"/>
+        <attr name="center_text_color" format="color"/>
+        <attr name="center_text_size" format="dimension"/>
+    </declare-styleable>
+</resources>
